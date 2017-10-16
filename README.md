@@ -1,2 +1,2 @@
 # TimeToPrint
-time backgrount
+time background
